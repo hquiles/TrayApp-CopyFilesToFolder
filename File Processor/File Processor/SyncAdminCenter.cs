@@ -15,11 +15,6 @@ namespace FileProcessorApp
 
         public override void CopyToDropbox(object sender, EventArgs e)
         {
-         
-
-            //DirectoryInfo di = new DirectoryInfo(@"C:\Users\20904\Desktop\olddest\");
-
-            //C:\\Users\\20904\\Desktop\\newdest
 
             string[] fileInfo = Directory.GetFiles(sourcePath);
             try
