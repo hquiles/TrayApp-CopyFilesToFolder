@@ -13,3 +13,12 @@ C:\Users\21221\Documents\GitHub\TrayApp-CopyFilesToFolder\File Processor\File Pr
 C:\Users\20904\Documents\GitHub\TrayApp-CopyFilesToFolder\File Processor\File Processor\bin\Debug\File Processor.exe.config
 C:\Users\20904\Documents\GitHub\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\File Processor.exe
 C:\Users\20904\Documents\GitHub\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\File Processor.pdb
+D:\Programming\Repositories\MyTrayApp\TrayApp-CopyFilesToFolder\File Processor\File Processor\bin\Debug\File Processor.exe.config
+D:\Programming\Repositories\MyTrayApp\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\File Processor.exe
+D:\Programming\Repositories\MyTrayApp\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\File Processor.pdb
+D:\Programming\Repositories\MyTrayApp\TrayApp-CopyFilesToFolder\File Processor\File Processor\bin\Debug\File Processor.exe
+D:\Programming\Repositories\MyTrayApp\TrayApp-CopyFilesToFolder\File Processor\File Processor\bin\Debug\File Processor.pdb
+D:\Programming\Repositories\MyTrayApp\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\File Processor.csprojResolveAssemblyReference.cache
+D:\Programming\Repositories\MyTrayApp\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\FileProcessorApp.Form1.resources
+D:\Programming\Repositories\MyTrayApp\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\FileProcessorApp.Properties.Resources.resources
+D:\Programming\Repositories\MyTrayApp\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\File Processor.csproj.GenerateResource.Cache
